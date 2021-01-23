@@ -1,7 +1,7 @@
 ---
 title: "zipWith操作符"
 linkTitle: "zipWith操作符"
-weight: 355
+weight: 356
 date: 2021-01-22
 description: >
   zipWith 操作符以一对一的方式合并两个流中的元素
@@ -21,7 +21,7 @@ Flux.just("a", "b")
 
 两个流中包含的元素分别是 a，b 和 c，d。这里 zipWith 操作符没有使用合并函数，因此结果流中的元素类型为 Tuple2。
 
-### 合并方式：通过 BiFunction 函数进行处理
+### 合并方式：使用 BiFunction
 
 zipWith 操作符也可以通过一个 BiFunction 函数对合并的元素进行处理，所得到的流的元素类型为该函数的返回值。
 

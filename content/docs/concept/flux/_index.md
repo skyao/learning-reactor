@@ -1,7 +1,7 @@
 ---
 title: "Flux"
 linkTitle: "Flux"
-weight: 330
+weight: 320
 description: >
   Reactor Flux
 ---

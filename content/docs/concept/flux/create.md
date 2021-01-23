@@ -1,7 +1,7 @@
 ---
 title: "创建Flux"
 linkTitle: "创建Flux"
-weight: 332
+weight: 322
 date: 2021-01-22
 description: >
   创建Flux
