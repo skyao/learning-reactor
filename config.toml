@@ -112,7 +112,7 @@ github_project_repo = "https://github.com/skyao/learning-reactor"
 # github_subdir = ""
 
 # Google Custom Search Engine ID. Remove or comment out to disable search.
-gcs_engine_id = "011737558837375720776:fsdu1nryfng"
+gcs_engine_id = "665a2d52ceffb3b84"
 
 # Enable Algolia DocSearch
 algolia_docsearch = false
